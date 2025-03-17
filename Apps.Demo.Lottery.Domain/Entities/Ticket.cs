@@ -1,3 +1,4 @@
+using Apps.Demo.Lottery.Domain.Enums;
 using Apps.Demo.Lottery.Domain.Exceptions;
 
 namespace Apps.Demo.Lottery.Domain.Entities;

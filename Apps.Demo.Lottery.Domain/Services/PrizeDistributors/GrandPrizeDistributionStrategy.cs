@@ -3,6 +3,7 @@ using Apps.Demo.Lottery.Domain.Contracts.PrizeDeciders;
 using Apps.Demo.Lottery.Domain.Contracts.PrizeDistributors;
 using Apps.Demo.Lottery.Domain.DTOs;
 using Apps.Demo.Lottery.Domain.Entities;
+using Apps.Demo.Lottery.Domain.Enums;
 
 namespace Apps.Demo.Lottery.Domain.Services.PrizeDistributors;
 

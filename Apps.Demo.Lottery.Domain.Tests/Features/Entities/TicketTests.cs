@@ -1,6 +1,7 @@
 using System.Reflection;
 using Apps.Demo.Lottery.Domain;
 using Apps.Demo.Lottery.Domain.Entities;
+using Apps.Demo.Lottery.Domain.Enums;
 using Apps.Demo.Lottery.Domain.Exceptions;
 using static NUnit.Framework.Assert;
 using Contains = NUnit.Framework.Contains;

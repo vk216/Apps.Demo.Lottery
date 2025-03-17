@@ -1,4 +1,4 @@
-namespace Apps.Demo.Lottery.Domain;
+namespace Apps.Demo.Lottery.Domain.Enums;
 
 public enum PrizeTier
 {
