@@ -4,4 +4,6 @@ obj/
 riderModule.iml
 /_ReSharper.Caches/
 .idea/
+./Apps.Demo.Lottery.sln.DotSettings.user
 Apps.Demo.Lottery.sln.DotSettings.user
+.DS_Store
