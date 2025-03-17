@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apps.Demo.Lottery", "Apps.Demo.Lottery\Apps.Demo.Lottery.csproj", "{D67E43E9-587E-42CB-9561-862B29ED27AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apps.Demo.Lottery.Domain", "Apps.Demo.Lottery.Domain\Apps.Demo.Lottery.Domain.csproj", "{06BD7AE7-307D-45FA-A5CB-4D598CB03F0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apps.Demo.Lottery.Application", "Apps.Demo.Lottery.Application\Apps.Demo.Lottery.Application.csproj", "{A7810303-58BF-4642-93C4-8F310805C14B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{490F4D4E-1159-4CDE-A7EC-40E1A0522518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apps.Demo.Lottery.Domain.Tests", "Apps.Demo.Lottery.Domain.Tests\Apps.Demo.Lottery.Domain.Tests.csproj", "{6E79427D-246A-4E04-85E8-695552C4134D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apps.Demo.Lottery.Application.Tests", "Apps.Demo.Lottery.Application.Tests\Apps.Demo.Lottery.Application.Tests.csproj", "{EB8EDFE5-1B6A-4882-AD60-1A52C31F4379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D67E43E9-587E-42CB-9561-862B29ED27AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67E43E9-587E-42CB-9561-862B29ED27AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67E43E9-587E-42CB-9561-862B29ED27AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67E43E9-587E-42CB-9561-862B29ED27AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06BD7AE7-307D-45FA-A5CB-4D598CB03F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06BD7AE7-307D-45FA-A5CB-4D598CB03F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06BD7AE7-307D-45FA-A5CB-4D598CB03F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06BD7AE7-307D-45FA-A5CB-4D598CB03F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7810303-58BF-4642-93C4-8F310805C14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7810303-58BF-4642-93C4-8F310805C14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7810303-58BF-4642-93C4-8F310805C14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7810303-58BF-4642-93C4-8F310805C14B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E79427D-246A-4E04-85E8-695552C4134D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E79427D-246A-4E04-85E8-695552C4134D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E79427D-246A-4E04-85E8-695552C4134D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E79427D-246A-4E04-85E8-695552C4134D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB8EDFE5-1B6A-4882-AD60-1A52C31F4379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8EDFE5-1B6A-4882-AD60-1A52C31F4379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8EDFE5-1B6A-4882-AD60-1A52C31F4379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8EDFE5-1B6A-4882-AD60-1A52C31F4379}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6E79427D-246A-4E04-85E8-695552C4134D} = {490F4D4E-1159-4CDE-A7EC-40E1A0522518}
+		{EB8EDFE5-1B6A-4882-AD60-1A52C31F4379} = {490F4D4E-1159-4CDE-A7EC-40E1A0522518}
+	EndGlobalSection
+EndGlobal

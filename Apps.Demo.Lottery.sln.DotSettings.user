@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ACallSiteFactory_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Ff7e838f3c047ee76488fa4c2b9b1bffb2b33b04a2780de4664de937e024e97_003FCallSiteFactory_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AISerializable_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Fdf33c7fd7db04a829574707592655c01d82000_003F49_003F7c6c7a2c_003FISerializable_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ATaskAwaiter_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003F24276f5a960c41c7b74713aa84cb1cae4672f89e225b6dcd2fe9b297a3a39_003FTaskAwaiter_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=834ef649_002Dae48_002D44f4_002Dbf30_002D84f04f5d4b83/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PlayerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::6E79427D-246A-4E04-85E8-695552C4134D::net8.0::Apps.Demo.Lottery.Domain.Tests.Features.Entities.PlayerTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6E79427D-246A-4E04-85E8-695552C4134D::net8.0::Apps.Demo.Lottery.Domain.Tests.Features.Entities.GameTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6E79427D-246A-4E04-85E8-695552C4134D::net8.0::Apps.Demo.Lottery.Domain.Tests.Features.Entities.TicketTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6E79427D-246A-4E04-85E8-695552C4134D::net8.0::Apps.Demo.Lottery.Domain.Tests.Features.PriceDeciders.GrandPrizeDecisionServiceTests.EligibleTickets_GrandPrizeDecision_Should_Return_FirstTicket&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6E79427D-246A-4E04-85E8-695552C4134D::net8.0::Apps.Demo.Lottery.Domain.Tests.Features.PriceDeciders.GrandPrizeDecisionServiceTests.EmptyTickets_GrandPrizeDecision_Should_Throw_DomainException&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6E79427D-246A-4E04-85E8-695552C4134D::net8.0::Apps.Demo.Lottery.Domain.Tests.Features.PriceDeciders.GrandPrizeDecisionServiceTests.NullTickets_GrandPrizeDecision_Should_Throw_DomainException&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6E79427D-246A-4E04-85E8-695552C4134D::net8.0::Apps.Demo.Lottery.Domain.Tests.Features.PriceDeciders.SecondTierPrizeDecisionServiceTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::6E79427D-246A-4E04-85E8-695552C4134D::net8.0::Apps.Demo.Lottery.Domain.Tests.Features.TicketPurchases.TicketPurchasesServiceTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EB8EDFE5-1B6A-4882-AD60-1A52C31F4379::net8.0::Apps.Demo.Lottery.Application.Tests.Features.Game.GameServiceTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>
